@@ -1,4 +1,5 @@
 What is Docker?
+
 Simply put, a tool which is designed to make it easier to create, deploy, and run applications by using containers is what we call Docker. It is an open platform for developing, shipping, as well as running applications.
 
 As its best feature, it enables us to separate our applications from our infrastructure so delivering software quickly will become easy. Moreover, usage of Docker helps to manage the infrastructure easily and in the same ways, one manages their applications.
