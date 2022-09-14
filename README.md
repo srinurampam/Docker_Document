@@ -8,7 +8,9 @@ Docker Architecture
 While it comes to Docker architecture, it uses a client-server architecture. And, its architecture consists of 3 major parts, such as:
 
 Docker Host
+
 Docker Client
+
 Registry
 
 i. Docker Host
